@@ -1,5 +1,5 @@
 # Shipping-Project
-In this project, we will be using "if statements" to create a program that calculates the total cost of a customers shopping basket, including shipping.
+In this project, we will be using "if statements" to create a program that calculates the total cost of a customers shopping basket, including shipping using python.
 
 - If a customer spends over $100, they get free shipping
 - If a customer spends < $100, the shipping cost is $1.20 per kg of the baskets weight
